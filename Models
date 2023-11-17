@@ -1,0 +1,5 @@
+(myvenv) C:\Users\Name\djangogirls> python manage.py startapp blog
+mysite/settings.py
+blog/models.py
+python manage.py makemigrations blog
+python manage.py migrate blog
